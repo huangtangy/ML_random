@@ -71,7 +71,7 @@ def random_sj(x):
     return Si
 
 
-def FFT(psi,U_tot, dt):
+def FFT(psi,p,U_tot, dt):
     '''
     psi:wavefunction;p:moment space;U_tot: potential;
     dt:time length;
