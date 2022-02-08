@@ -1,1 +1,1 @@
-# ML_random
+# Machine-Learning Assisted Quantum Control in Random Environment
